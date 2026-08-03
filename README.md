@@ -4,13 +4,13 @@
 
 Frontend React untuk aplikasi Task Management dengan autentikasi JWT dan Admin Panel.
 
-## 🚀 Tech Stack
+##Tech Stack
 - React.js
 - React Router DOM
 - Axios
 - JWT (localStorage)
 
-## 📦 Features
+##Features
 - Login & Register
 - Protected Routes
 - Task Management
@@ -23,11 +23,11 @@ Frontend React untuk aplikasi Task Management dengan autentikasi JWT dan Admin P
   - Delete user
 - Auto logout jika token invalid
 
-## 🔐 Role Access
+##Role Access
 - **User** → Dashboard & Task
 - **Admin** → Dashboard + Admin User Management
 
-## ▶️ Run Locally
+##Run Locally
 ```bash
 npm install
 npm start
